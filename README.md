@@ -6,7 +6,8 @@ Welcome to the GitHub Data Analytics Homepage! Here you'll find repositories and
 
 ## Repositories
 
-- [Repository 1](#) - Description of repository 1.
+- [https://github.com/Alekseyzool/ya_practicum_ds](#) - ### Проекты Яндекс Практикума
+Здесь вы найдете мои проекты, выполненные в рамках обучения в Яндекс Практикуме..
 - [Repository 2](#) - Description of repository 2.
 - [Repository 3](#) - Description of repository 3.
 
