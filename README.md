@@ -1,8 +1,8 @@
-### Hi there 👋
+### Привет 👋
 
-# GitHub Data Analytics Homepage
+# GitHub Data Analytics 
 
-Welcome to the GitHub Data Analytics Homepage! Here you'll find repositories and tools related to data analysis and machine learning.
+Добро пожаловать! Здесь вы найдете репозитории и инструменты, связанные с анализом данных и машинным обучением.
 
 ## Repositories
 
@@ -21,7 +21,8 @@ Welcome to the GitHub Data Analytics Homepage! Here you'll find repositories and
 
 Стек технологий, используемый для проектов:
 
-- Python
+- [Python](https://www.python.org/)
+- [SQL](https://sql.sh/)
 - [Pandas](https://pandas.pydata.org/)
 - [NumPy](https://numpy.org/)
 - [Matplotlib](https://matplotlib.org/)
