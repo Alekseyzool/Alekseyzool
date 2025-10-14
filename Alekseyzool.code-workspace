@@ -1,0 +1,22 @@
+{
+  "folders": [
+    { "path": "." }
+  ],
+  "settings": {
+    "git.enableSmartCommit": true,
+    "git.postCommitCommand": "sync",
+    "git.confirmSync": false,
+
+    "explorer.compactFolders": false,
+
+    "files.exclude": {
+      "**/__pycache__": true,
+      "**/.ipynb_checkpoints": true
+    },
+
+    "python.analysis.typeCheckingMode": "basic",
+    "python.terminal.activateEnvironment": true,
+    "editor.formatOnSave": true,
+    "jupyter.sendSelectionToInteractiveWindow": true
+  }
+}
