@@ -1,0 +1,16 @@
+[submodule "01_pet_projects/parser_wb"]
+	path = 01_pet_projects/parser_wb
+	url = git@github.com:Alekseyzool/parser_wb.git
+	branch = main
+[submodule "01_pet_projects/trade_bot"]
+	path = 01_pet_projects/trade_bot
+	url = git@github.com:Alekseyzool/trade_bot.git
+	branch = main
+[submodule "03_yandex_practicum"]
+	path = 03_yandex_practicum
+	url = git@github.com:Alekseyzool/ya_practicum_ds.git
+	branch = main
+[submodule "04_kaggle"]
+	path = 04_kaggle
+	url = git@github.com:Alekseyzool/kaggle.git
+	branch = main
