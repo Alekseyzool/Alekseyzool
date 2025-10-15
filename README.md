@@ -58,43 +58,43 @@
 #### [**Yandex Practicum**](https://github.com/Alekseyzool/Alekseyzool/tree/main/03_yandex_practicum)
 > Серия учебных аналитических проектов с бизнес-контекстом.
 
-- **[Music Service](https://github.com/Alekseyzool/Alekseyzool/blob/main/03_yandex_practicum/01_music_service/music_service.ipynb)** — сравнение поведения слушателей Москвы и Петербурга.  
+- **[Music Service](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/01_music_service/music_service.ipynb)** — сравнение поведения слушателей Москвы и Петербурга.  
   *Стек:* `Python`, `Pandas`.
 
-- **[Bank Borrowers](https://github.com/Alekseyzool/Alekseyzool/blob/main/03_yandex_practicum/02_bank_borrowers/bank_borrowers.ipynb)** — влияние семейного положения, детей и целей кредита на просрочки.  
+- **[Bank Borrowers](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/02_bank_borrowers/bank_borrowers.ipynb)** — влияние семейного положения, детей и целей кредита на просрочки.  
   *Стек:* `Python`, `Pandas`.
 
-- **[Real Estate Market](https://github.com/Alekseyzool/Alekseyzool/blob/main/03_yandex_practicum/03_real_estate_market/real_estate_market.ipynb)** — факторы ценообразования недвижимости Санкт-Петербурга и центровой надбавки.  
+- **[Real Estate Market](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/03_real_estate_market/real_estate_market.ipynb)** — факторы ценообразования недвижимости Санкт-Петербурга и центровой надбавки.  
   *Стек:* `Python`, `Pandas`, `Matplotlib`.
 
-- **[Telecom Tariff](https://github.com/Alekseyzool/Alekseyzool/blob/main/03_yandex_practicum/04_tariff_telecom/tariff_telecom.ipynb)** — сравнение выручки тарифов «Смарт» и «Ультра», анализ региональных различий.  
+- **[Telecom Tariff](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/04_tariff_telecom/tariff_telecom.ipynb)** — сравнение выручки тарифов «Смарт» и «Ультра», анализ региональных различий.  
   *Стек:* `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `SciPy`.
 
-- **[Age Determination](https://github.com/Alekseyzool/Alekseyzool/blob/main/03_yandex_practicum/05_age_determination/age_determination.ipynb)** — определение возраста по фотографиям с помощью ResNet50.  
+- **[Age Determination](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/05_age_determination/age_determination.ipynb)** — определение возраста по фотографиям с помощью ResNet50.  
   *Стек:* `Python`, `TensorFlow`, `Pandas`, `NumPy`, `Matplotlib`.
 
-- **[Telecom Clients](https://github.com/Alekseyzool/Alekseyzool/blob/main/03_yandex_practicum/06_telecom_clients/telecom_clients.ipynb)** — классификация тарифов для абонентов мобильного оператора.  
+- **[Telecom Clients](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/06_telecom_clients/telecom_clients.ipynb)** — классификация тарифов для абонентов мобильного оператора.  
   *Стек:* `Python`, `Pandas`, `scikit-learn`.
 
-- **[Bank Customer Churn](https://github.com/Alekseyzool/Alekseyzool/blob/main/03_yandex_practicum/07_churn_customer_bank/churn_customer_bank.ipynb)** — прогноз оттока с балансировкой классов и сравнением моделей.  
+- **[Bank Customer Churn](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/07_churn_customer_bank/churn_customer_bank.ipynb)** — прогноз оттока с балансировкой классов и сравнением моделей.  
   *Стек:* `Python`, `Pandas`, `NumPy`, `scikit-learn`.
 
-- **[Oil Production Regions](https://github.com/Alekseyzool/Alekseyzool/blob/main/03_yandex_practicum/08_region_oil_production/region_oil_production.ipynb)** — выбор прибыльного региона на основе модели и bootstrap-оценки рисков.  
+- **[Oil Production Regions](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/08_region_oil_production/region_oil_production.ipynb)** — выбор прибыльного региона на основе модели и bootstrap-оценки рисков.  
   *Стек:* `Python`, `Pandas`, `NumPy`, `scikit-learn`.
 
-- **[Gold Refining](https://github.com/Alekseyzool/Alekseyzool/blob/main/03_yandex_practicum/09_gold_refining/gold_refining.ipynb)** — прогноз восстановления золота и оптимизация технологической цепочки.  
+- **[Gold Refining](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/09_gold_refining/gold_refining.ipynb)** — прогноз восстановления золота и оптимизация технологической цепочки.  
   *Стек:* `Python`, `Pandas`, `NumPy`, `scikit-learn`.
 
-- **[Game Success](https://github.com/Alekseyzool/Alekseyzool/blob/main/03_yandex_practicum/10_game_success/game_success.ipynb)** — анализ рынка игр, популярности жанров и проверка гипотез по рейтингам.  
+- **[Game Success](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/10_game_success/game_success.ipynb)** — анализ рынка игр, популярности жанров и проверка гипотез по рейтингам.  
   *Стек:* `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `SciPy`.
 
-- **[Car Cost](https://github.com/Alekseyzool/Alekseyzool/blob/main/03_yandex_practicum/11_car_cost/car_cost.ipynb)** — оценка стоимости автомобилей моделями LightGBM и CatBoost.  
+- **[Car Cost](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/11_car_cost/car_cost.ipynb)** — оценка стоимости автомобилей моделями LightGBM и CatBoost.  
   *Стек:* `Python`, `Pandas`, `NumPy`, `scikit-learn`, `LightGBM`, `CatBoost`.
 
-- **[Taxi Order Forecasting](https://github.com/Alekseyzool/Alekseyzool/blob/main/03_yandex_practicum/12_taxi_order_forecasting/taxi_order_forecasting.ipynb)** — прогноз часовых заказов такси с лагами и градиентным бустингом.  
+- **[Taxi Order Forecasting](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/12_taxi_order_forecasting/taxi_order_forecasting.ipynb)** — прогноз часовых заказов такси с лагами и градиентным бустингом.  
   *Стек:* `Python`, `Pandas`, `NumPy`, `scikit-learn`, `CatBoost`, `Statsmodels`.
 
-- **[Toxic Comments](https://github.com/Alekseyzool/Alekseyzool/blob/main/03_yandex_practicum/13_toxic_comments/toxic_comments.ipynb)** — определение токсичности комментариев по TF-IDF и логистической регрессии.  
+- **[Toxic Comments](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/13_toxic_comments/toxic_comments.ipynb)** — определение токсичности комментариев по TF-IDF и логистической регрессии.  
   *Стек:* `Python`, `Pandas`, `NumPy`, `scikit-learn`, `NLTK`.
 
 #### [**Kaggle Experiments**](https://github.com/Alekseyzool/Alekseyzool/tree/main/04_kaggle)
