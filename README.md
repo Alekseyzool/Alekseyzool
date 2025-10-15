@@ -109,8 +109,7 @@
 ## 💬 Контакты
 
 📧 **Email:** [zoolrmx@gmail.com](mailto:zoolrmx@gmail.com)  
-💬 **Telegram:** [@Alekseyzool](https://t.me/Alekseyzool)  
-💼 **LinkedIn:** [linkedin.com/in/alekseyzool](https://linkedin.com/in/alekseyzool)
+💬 **Telegram:** [@Alekseyzool](https://t.me/Yazev_Aleksey)  
 
 ---
 
