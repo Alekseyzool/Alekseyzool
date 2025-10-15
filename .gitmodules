@@ -14,3 +14,5 @@
 	path = 01_pet_projects/E-commerce_OLIST
 	url = git@github.com:Alekseyzool/E-commerce_OLIST.git
 	branch = main
+[submodule "01_pet_projects/trade_bot/rusty_trading"]
+	ignore = all
