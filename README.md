@@ -42,12 +42,19 @@
 > Серия учебных аналитических проектов с бизнес-контекстом.
 
 Проекты:
-- 🎵 [Music Service](./03_yandex_practicum/01_music_service) — сравнение активностей пользователей двух городов.  
-- 🏦 [Bank Borrowers](./03_yandex_practicum/02_bank_borrowers) — исследование факторов невозврата кредита.  
-- 🏠 [Real Estate Market](./03_yandex_practicum/03_real_estate_market) — анализ объявлений о продаже жилья.  
-- 📡 [Telecom Tariff](./03_yandex_practicum/04_tariff_telecom) — анализ тарифов и рекомендации компании.  
-- 🚖 [Taxi Order Forecasting](./03_yandex_practicum/12_taxi_order_forecasting) — прогноз спроса для сервиса такси.  
-- 💬 [Toxic Comments](./03_yandex_practicum/13_toxic_comments) — NLP-анализ тональности комментариев.  
+- 🎵 [Music Service](https://github.com/Alekseyzool/ya_practicum_ds/tree/main/01_music_service)
+- 🏦 [Bank Borrowers](https://github.com/Alekseyzool/ya_practicum_ds/tree/main/02_bank_borrowers)
+- 🏠 [Real Estate Market](https://github.com/Alekseyzool/ya_practicum_ds/tree/main/03_real_estate_market)
+- 📡 [Telecom Tariff](https://github.com/Alekseyzool/ya_practicum_ds/tree/main/04_tariff_telecom)
+- 🧑‍🦳 [Age Determination](https://github.com/Alekseyzool/ya_practicum_ds/tree/main/05_age_determination)
+- 📞 [Telecom Clients](https://github.com/Alekseyzool/ya_practicum_ds/tree/main/06_telecom_clients)
+- 🏦 [Churn (Bank)](https://github.com/Alekseyzool/ya_practicum_ds/tree/main/07_churn_customer_bank)
+- 🛢 [Oil Production](https://github.com/Alekseyzool/ya_practicum_ds/tree/main/08_region_oil_production)
+- 🏅 [Gold Refining](https://github.com/Alekseyzool/ya_practicum_ds/tree/main/09_gold_refining)
+- 🎮 [Game Success](https://github.com/Alekseyzool/ya_practicum_ds/tree/main/10_game_success)
+- 🚗 [Car Cost](https://github.com/Alekseyzool/ya_practicum_ds/tree/main/11_car_cost)
+- 🚕 [Taxi Order Forecasting](https://github.com/Alekseyzool/ya_practicum_ds/tree/main/12_taxi_order_forecasting)
+- 💬 [Toxic Comments (NLP)](https://github.com/Alekseyzool/ya_practicum_ds/tree/main/13_toxic_comments)
 
 #### [**Kaggle Experiments**](https://github.com/Alekseyzool/kaggle)
 > Репозиторий соревновательных и исследовательских ноутбуков.  
