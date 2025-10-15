@@ -43,31 +43,16 @@
 ### 🎓 **Образовательные проекты**
 
 #### [**Karpov.Courses**](./02_karpov_courses)
-> Ноутбуки с задачами по аналитике данных, метрикам и A/B-тестам.
+> Небольшая коллекция ноутбуков по аналитике и прогнозированию; подробности — в README каталога.
 
-- **[A/A & A/B Simulator](./02_karpov_courses/AA_AB_karpov_simulator.ipynb)** — проверка сплитования, анализ CTR и пуассоновский бутстрап результатов.  
-  *Стек:* `Pandas`, `NumPy`, `SciPy`, `Seaborn`, `Matplotlib`, `clickhouse-connect`.
+- **[AA & AB Simulator](./02_karpov_courses/AA_AB_karpov_simulator.ipynb)** — проверка корректности сплитования и анализ CTR новой рекомендательной ленты.  
+  *Стек:* `Python`, `Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`, `clickhouse-connect`, `swifter`.
 
-- **[Final Project · Dating App](<./02_karpov_courses/Final_project_Karpov_3v (2).ipynb>)** — комплексный анализ ценового эксперимента: очистка, метрики, бутстрап и выводы.  
-  *Стек:* `Pandas`, `NumPy`, `SciPy`, `Statsmodels`, `Seaborn`, `Matplotlib`.
+- **[Final Project · Pricing](./02_karpov_courses/Final_project_Karpov.ipynb)** — анализ теста цены премиума: очистка данных, продуктовые метрики и бутстрап uplift.  
+  *Стек:* `Python`, `Pandas`, `NumPy`, `SciPy`, `Statsmodels`, `Matplotlib`, `Seaborn`.
 
-- **[Orbit Prediction](./02_karpov_courses/Orbit_prediction.ipynb)** — прогноз CTR с использованием Orbit (DLT MAP/MCMC), бэктесты и каузальный анализ.  
-  *Стек:* `Pandas`, `NumPy`, `orbit`, `Matplotlib`, `Seaborn`, `SciPy`, `ArviZ`, `CausalImpact`.
-
-- **[Predicting Server Loads](./02_karpov_courses/Predicting_server_loads.ipynb)** — временные ряды для нагрузки на серверы: DLT, KTRLite и CatBoost с бэктестом.  
-  *Стек:* `Pandas`, `NumPy`, `orbit`, `CatBoost`, `clickhouse-connect`.
-
-- **[AB Pricing Experiment](./02_karpov_courses/ab_pricing_experiment_analysis.ipynb)** — анализ A/B теста цены премиума с χ²-тестами, Mann–Whitney и визуализацией.  
-  *Стек:* `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `SciPy`.
-
-- **[AB Test Analysis](./02_karpov_courses/ab_test_analysis.ipynb)** — проверка гипотез по изменениям цены: пропорциональные тесты, t-test и сегментный анализ.  
-  *Стек:* `Pandas`, `NumPy`, `Matplotlib`, `SciPy`, `Statsmodels`.
-
-- **[AB Test Project 3](./02_karpov_courses/ab_test_project_3_notebook.ipynb)** — два контроля против теста: бутстрап uplift, проверки качества и экспорт отчётов.  
-  *Стек:* `Pandas`, `NumPy`, `SciPy`, `Pathlib`.
-
-- **[Bank Churn Analytics](./02_karpov_courses/churn_customer_bank.ipynb)** — моделирование оттока клиентов с балансировкой и сравнением моделей.  
-  *Стек:* `Pandas`, `NumPy`, `scikit-learn`.
+- **[Predicting Server Loads](./02_karpov_courses/Predicting_server_loads.ipynb)** — прогнозирование активности пользователей с Orbit и CatBoost.  
+  *Стек:* `Python`, `Pandas`, `NumPy`, `Orbit`, `CatBoost`, `clickhouse-connect`.
 
 #### [**Yandex Practicum**](./03_yandex_practicum)
 > Серия учебных аналитических проектов с бизнес-контекстом.
