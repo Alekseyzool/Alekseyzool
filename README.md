@@ -16,9 +16,10 @@
   Парсер результатов поверок ФГИС «Аршин». Загружает данные через API, обрабатывает и сохраняет в ClickHouse.  
   *Stack:* `Python`, `Streamlit`, `ClickHouse`, `Requests`, `Pandas`.
 
-- [**Parser WB**](./01_pet_projects/parser_wb)  
-  Скрипт для сбора данных о товарах Wildberries (API + BeautifulSoup).  
-  *Stack:* `Python`, `Requests`, `BeautifulSoup`, `Pandas`.
+- [**E-commerce OLIST**](./01_pet_projects/E-commerce_OLIST)  
+  Анализ заказов и выручки интернет-площадки OLIST.  
+  Включает когортный анализ, LTV, юнит-экономику и визуализацию.  
+  *Stack:* `Python`, `Pandas`, `Matplotlib`, `Seaborn`
 
 - [**Trade Bot**](./01_pet_projects/trade_bot)  
   Автоматизированный бот для торговли (Python + Rust).  
