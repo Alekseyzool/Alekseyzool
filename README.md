@@ -29,11 +29,11 @@
 ### 🧰 **Pet-projects**
 > **Мои собственные инструменты и проекты, созданные для автоматизации и аналитики.**
 
-- **[E-commerce OLIST](https://github.com/Alekseyzool/E-commerce_OLIST/blob/main/E-commerce%20OLIST%20analysis.ipynb)** — удержание покупателей, когортный анализ, приоритизация гипотез и A/B-метрики.  
-  *Стек:* `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `SQLAlchemy`.
-
 - **[FGIS Arshin](./01_pet_projects/FGIS_Arshin)** — Streamlit-приложение для загрузки поверок и типов СИ из ФГИС в ClickHouse.  
   *Стек:* `Python`, `Streamlit`, `Requests`, `Pandas`, `clickhouse-driver`.
+  
+- **[E-commerce OLIST](https://github.com/Alekseyzool/E-commerce_OLIST/blob/main/E-commerce%20OLIST%20analysis.ipynb)** — удержание покупателей, когортный анализ, приоритизация гипотез и A/B-метрики.  
+  *Стек:* `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `SQLAlchemy`.
 
 - **[Trade Bot](./01_pet_projects/trade_bot)** — Telegram-бот для торговли на Bybit: ордера, баланс, история, Rust-расширение для котировок.  
   *Стек:* `Python`, `python-telegram-bot`, `PyBit`, `SQLite`, `Rust`.
