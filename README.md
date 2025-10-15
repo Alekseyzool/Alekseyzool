@@ -12,16 +12,16 @@
 ### 🧰 **Pet-projects**
 > **Мои собственные инструменты и проекты, созданные для автоматизации и аналитики.**
 
-- [**FGIS → ClickHouse**](./01_pet_projects/FGIS_Arshin)  
+- [**FGIS → ClickHouse**](./01_pet_projects/FGIS_Arshin) 
   Парсер результатов поверок ФГИС «Аршин». Загружает данные через API, обрабатывает и сохраняет в ClickHouse.  
   *Stack:* `Python`, `Streamlit`, `ClickHouse`, `Requests`, `Pandas`.
 
-- [**E-commerce OLIST**](./01_pet_projects/E-commerce_OLIST)  
+- [**E-commerce OLIST**](https://github.com/Alekseyzool/E-commerce_OLIST)  
   Анализ заказов и выручки интернет-площадки OLIST.  
   Включает когортный анализ, LTV, юнит-экономику и визуализацию.  
   *Stack:* `Python`, `Pandas`, `Matplotlib`, `Seaborn`
 
-- [**Trade Bot**](./01_pet_projects/trade_bot)  
+- [**Trade Bot**](https://github.com/Alekseyzool/trade_bot)  
   Автоматизированный бот для торговли (Python + Rust).  
   *Stack:* `Python`, `Rust`, `Telebot`, `SQLAlchemy`.
 
@@ -38,7 +38,7 @@
 - 🔮 **Прогноз нагрузки на сервер:** временные ряды (Orbit, KTRLite, Prophet).  
 - 💰 **Оценка ценовой эластичности:** моделирование реакции на изменение цены.
 
-#### [**Yandex Practicum / ya_practicum_ds**](./03_yandex_practicum)
+#### [**Yandex Practicum / ya_practicum_ds**](https://github.com/Alekseyzool/ya_practicum_ds)
 > Серия учебных аналитических проектов с бизнес-контекстом.
 
 Проекты:
@@ -49,7 +49,7 @@
 - 🚖 [Taxi Order Forecasting](./03_yandex_practicum/12_taxi_order_forecasting) — прогноз спроса для сервиса такси.  
 - 💬 [Toxic Comments](./03_yandex_practicum/13_toxic_comments) — NLP-анализ тональности комментариев.  
 
-#### [**Kaggle Experiments**](./04_kaggle)
+#### [**Kaggle Experiments**](https://github.com/Alekseyzool/kaggle)
 > Репозиторий соревновательных и исследовательских ноутбуков.  
 > *Stack:* `Python`, `Scikit-learn`, `CatBoost`, `LightGBM`, `Optuna`.
 
