@@ -12,53 +12,93 @@
 ### 🧰 **Pet-projects**
 > **Мои собственные инструменты и проекты, созданные для автоматизации и аналитики.**
 
-- [**FGIS → ClickHouse**](./01_pet_projects/FGIS_Arshin) 
-  Парсер результатов поверок ФГИС «Аршин». Загружает данные через API, обрабатывает и сохраняет в ClickHouse.  
-  *Stack:* `Python`, `Streamlit`, `ClickHouse`, `Requests`, `Pandas`.
+- **[E-commerce OLIST](./01_pet_projects/E-commerce_OLIST)** — удержание покупателей, когортный анализ, приоритизация гипотез и A/B-метрики.  
+  *Стек:* `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `SQLAlchemy`.
 
-- [**E-commerce OLIST**](https://github.com/Alekseyzool/E-commerce_OLIST)  
-  Анализ заказов и выручки интернет-площадки OLIST.  
-  Включает когортный анализ, LTV, юнит-экономику и визуализацию.  
-  *Stack:* `Python`, `Pandas`, `Matplotlib`, `Seaborn`
+- **[FGIS Arshin](./01_pet_projects/FGIS_Arshin)** — Streamlit-приложение для загрузки поверок и типов СИ из ФГИС в ClickHouse.  
+  *Стек:* `Python`, `Streamlit`, `Requests`, `Pandas`, `clickhouse-driver`.
 
-- [**Trade Bot**](https://github.com/Alekseyzool/trade_bot)  
-  Автоматизированный бот для торговли (Python + Rust).  
-  *Stack:* `Python`, `Rust`, `Telebot`, `SQLAlchemy`.
+- **[Trade Bot](./01_pet_projects/trade_bot)** — Telegram-бот для торговли на Bybit: ордера, баланс, история, Rust-расширение для котировок.  
+  *Стек:* `Python`, `python-telegram-bot`, `PyBit`, `SQLite`, `Rust`.
 
 ---
 
 ### 🎓 **Образовательные проекты**
 
 #### [**Karpov.Courses**](./02_karpov_courses)
-> Ноутбуки с задачами по аналитике данных, метрикам и A/B-тестам.  
-> *Stack:* `Pandas`, `NumPy`, `Matplotlib`, `SciPy`, `Plotly`, `ClickHouse`, `A/B Testing`.
+> Ноутбуки с задачами по аналитике данных, метрикам и A/B-тестам.
 
-Примеры:
-- 🧪 **A/B-тестирование:** статистические тесты, симуляции, анализ CTR.  
-- 🔮 **Прогноз нагрузки на сервер:** временные ряды (Orbit, KTRLite, Prophet).  
-- 💰 **Оценка ценовой эластичности:** моделирование реакции на изменение цены.
+- **[A/A & A/B Simulator](./02_karpov_courses/AA_AB_karpov_simulator.ipynb)** — проверка сплитования, анализ CTR и пуассоновский бутстрап результатов.  
+  *Стек:* `Pandas`, `NumPy`, `SciPy`, `Seaborn`, `Matplotlib`, `clickhouse-connect`.
 
-#### [**Yandex Practicum / ya_practicum_ds**](https://github.com/Alekseyzool/ya_practicum_ds)
+- **[Final Project · Dating App](<./02_karpov_courses/Final_project_Karpov_3v (2).ipynb>)** — комплексный анализ ценового эксперимента: очистка, метрики, бутстрап и выводы.  
+  *Стек:* `Pandas`, `NumPy`, `SciPy`, `Statsmodels`, `Seaborn`, `Matplotlib`.
+
+- **[Orbit Prediction](./02_karpov_courses/Orbit_prediction.ipynb)** — прогноз CTR с использованием Orbit (DLT MAP/MCMC), бэктесты и каузальный анализ.  
+  *Стек:* `Pandas`, `NumPy`, `orbit`, `Matplotlib`, `Seaborn`, `SciPy`, `ArviZ`, `CausalImpact`.
+
+- **[Predicting Server Loads](./02_karpov_courses/Predicting_server_loads.ipynb)** — временные ряды для нагрузки на серверы: DLT, KTRLite и CatBoost с бэктестом.  
+  *Стек:* `Pandas`, `NumPy`, `orbit`, `CatBoost`, `clickhouse-connect`.
+
+- **[AB Pricing Experiment](./02_karpov_courses/ab_pricing_experiment_analysis.ipynb)** — анализ A/B теста цены премиума с χ²-тестами, Mann–Whitney и визуализацией.  
+  *Стек:* `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `SciPy`.
+
+- **[AB Test Analysis](./02_karpov_courses/ab_test_analysis.ipynb)** — проверка гипотез по изменениям цены: пропорциональные тесты, t-test и сегментный анализ.  
+  *Стек:* `Pandas`, `NumPy`, `Matplotlib`, `SciPy`, `Statsmodels`.
+
+- **[AB Test Project 3](./02_karpov_courses/ab_test_project_3_notebook.ipynb)** — два контроля против теста: бутстрап uplift, проверки качества и экспорт отчётов.  
+  *Стек:* `Pandas`, `NumPy`, `SciPy`, `Pathlib`.
+
+- **[Bank Churn Analytics](./02_karpov_courses/churn_customer_bank.ipynb)** — моделирование оттока клиентов с балансировкой и сравнением моделей.  
+  *Стек:* `Pandas`, `NumPy`, `scikit-learn`.
+
+#### [**Yandex Practicum**](./03_yandex_practicum)
 > Серия учебных аналитических проектов с бизнес-контекстом.
 
-Проекты:
-- 🎵 [Music Service](https://github.com/Alekseyzool/ya_practicum_ds/tree/main/01_music_service)
-- 🏦 [Bank Borrowers](https://github.com/Alekseyzool/ya_practicum_ds/tree/main/02_bank_borrowers)
-- 🏠 [Real Estate Market](https://github.com/Alekseyzool/ya_practicum_ds/tree/main/03_real_estate_market)
-- 📡 [Telecom Tariff](https://github.com/Alekseyzool/ya_practicum_ds/tree/main/04_tariff_telecom)
-- 🧑‍🦳 [Age Determination](https://github.com/Alekseyzool/ya_practicum_ds/tree/main/05_age_determination)
-- 📞 [Telecom Clients](https://github.com/Alekseyzool/ya_practicum_ds/tree/main/06_telecom_clients)
-- 🏦 [Churn (Bank)](https://github.com/Alekseyzool/ya_practicum_ds/tree/main/07_churn_customer_bank)
-- 🛢 [Oil Production](https://github.com/Alekseyzool/ya_practicum_ds/tree/main/08_region_oil_production)
-- 🏅 [Gold Refining](https://github.com/Alekseyzool/ya_practicum_ds/tree/main/09_gold_refining)
-- 🎮 [Game Success](https://github.com/Alekseyzool/ya_practicum_ds/tree/main/10_game_success)
-- 🚗 [Car Cost](https://github.com/Alekseyzool/ya_practicum_ds/tree/main/11_car_cost)
-- 🚕 [Taxi Order Forecasting](https://github.com/Alekseyzool/ya_practicum_ds/tree/main/12_taxi_order_forecasting)
-- 💬 [Toxic Comments (NLP)](https://github.com/Alekseyzool/ya_practicum_ds/tree/main/13_toxic_comments)
+- **[Music Service](./03_yandex_practicum/01_music_service)** — сравнение поведения слушателей Москвы и Петербурга.  
+  *Стек:* `Python`, `Pandas`.
 
-#### [**Kaggle Experiments**](https://github.com/Alekseyzool/kaggle)
-> Репозиторий соревновательных и исследовательских ноутбуков.  
-> *Stack:* `Python`, `Scikit-learn`, `CatBoost`, `LightGBM`, `Optuna`.
+- **[Bank Borrowers](./03_yandex_practicum/02_bank_borrowers)** — влияние семейного положения, детей и целей кредита на просрочки.  
+  *Стек:* `Python`, `Pandas`.
+
+- **[Real Estate Market](./03_yandex_practicum/03_real_estate_market)** — факторы ценообразования недвижимости Санкт-Петербурга и центровой надбавки.  
+  *Стек:* `Python`, `Pandas`, `Matplotlib`.
+
+- **[Telecom Tariff](./03_yandex_practicum/04_tariff_telecom)** — сравнение выручки тарифов «Смарт» и «Ультра», анализ региональных различий.  
+  *Стек:* `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `SciPy`.
+
+- **[Age Determination](./03_yandex_practicum/05_age_determination)** — определение возраста по фотографиям с помощью ResNet50.  
+  *Стек:* `Python`, `TensorFlow`, `Pandas`, `NumPy`, `Matplotlib`.
+
+- **[Telecom Clients](./03_yandex_practicum/06_telecom_clients)** — классификация тарифов для абонентов мобильного оператора.  
+  *Стек:* `Python`, `Pandas`, `scikit-learn`.
+
+- **[Bank Customer Churn](./03_yandex_practicum/07_churn_customer_bank)** — прогноз оттока с балансировкой классов и сравнением моделей.  
+  *Стек:* `Python`, `Pandas`, `NumPy`, `scikit-learn`.
+
+- **[Oil Production Regions](./03_yandex_practicum/08_region_oil_production)** — выбор прибыльного региона на основе модели и bootstrap-оценки рисков.  
+  *Стек:* `Python`, `Pandas`, `NumPy`, `scikit-learn`.
+
+- **[Gold Refining](./03_yandex_practicum/09_gold_refining)** — прогноз восстановления золота и оптимизация технологической цепочки.  
+  *Стек:* `Python`, `Pandas`, `NumPy`, `scikit-learn`.
+
+- **[Game Success](./03_yandex_practicum/10_game_success)** — анализ рынка игр, популярности жанров и проверка гипотез по рейтингам.  
+  *Стек:* `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `SciPy`.
+
+- **[Car Cost](./03_yandex_practicum/11_car_cost)** — оценка стоимости автомобилей моделями LightGBM и CatBoost.  
+  *Стек:* `Python`, `Pandas`, `NumPy`, `scikit-learn`, `LightGBM`, `CatBoost`.
+
+- **[Taxi Order Forecasting](./03_yandex_practicum/12_taxi_order_forecasting)** — прогноз часовых заказов такси с лагами и градиентным бустингом.  
+  *Стек:* `Python`, `Pandas`, `NumPy`, `scikit-learn`, `CatBoost`, `Statsmodels`.
+
+- **[Toxic Comments](./03_yandex_practicum/13_toxic_comments)** — определение токсичности комментариев по TF-IDF и логистической регрессии.  
+  *Стек:* `Python`, `Pandas`, `NumPy`, `scikit-learn`, `NLTK`.
+
+#### [**Kaggle Experiments**](./04_kaggle)
+> Каталог соревновательных ноутбуков и черновиков для Kaggle.
+
+- **[README по экспериментам](./04_kaggle/README.md)** — правила ведения соревнований и список используемого стека.  
+  *Стек:* `Python`, `scikit-learn`, `CatBoost`, `LightGBM`, `Optuna`.
 
 ---
 
