@@ -6,6 +6,23 @@
 Работаю в сфере метрологии и аналитики данных (VXI-Systems), а в свободное время развиваю pet-проекты с AI-агентами, ClickHouse-дашбордами и телеграм-ботами.  
 
 ---
+## 🧠 Стек и инструменты
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?logo=matplotlib&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFA500?logo=catboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-20B2AA?logo=lightgbm&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC00?logo=clickhouse&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-DEA584?logo=rust&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+
+---
 
 ## 🚀 Проекты и учебные работы
 
@@ -102,23 +119,7 @@
 
 ---
 
-## 🧠 Стек и инструменты
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?logo=matplotlib&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFA500?logo=catboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-20B2AA?logo=lightgbm&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC00?logo=clickhouse&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-DEA584?logo=rust&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-
----
 
 ## 💬 Контакты
 
