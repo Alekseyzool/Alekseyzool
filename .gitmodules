@@ -1,7 +1,3 @@
-[submodule "01_pet_projects/parser_wb"]
-	path = 01_pet_projects/parser_wb
-	url = git@github.com:Alekseyzool/parser_wb.git
-	branch = main
 [submodule "01_pet_projects/trade_bot"]
 	path = 01_pet_projects/trade_bot
 	url = git@github.com:Alekseyzool/trade_bot.git
