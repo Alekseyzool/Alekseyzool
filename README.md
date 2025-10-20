@@ -29,14 +29,11 @@
 ### 🧰 **Pet-projects**
 > **Мои собственные инструменты и проекты, созданные для автоматизации и аналитики.**
 
-- **[FGIS Arshin](https://github.com/Alekseyzool/Alekseyzool/tree/main/01_pet_projects/FGIS_Arshin)** — Streamlit-приложение для загрузки поверок и типов СИ из ФГИС в ClickHouse.  
-  *Стек:* `Python`, `Streamlit`, `Requests`, `Pandas`, `clickhouse-driver`.
-  
-- **[E-commerce OLIST](https://github.com/Alekseyzool/E-commerce_OLIST/blob/main/E-commerce%20OLIST%20analysis.ipynb)** — удержание покупателей, когортный анализ, приоритизация гипотез и A/B-метрики.  
-  *Стек:* `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `SQLAlchemy`.
-
-- **[Trade Bot](https://github.com/Alekseyzool/Alekseyzool/tree/main/01_pet_projects/trade_bot)** — Telegram-бот для торговли на Bybit: ордера, баланс, история, Rust-расширение для котировок.  
-  *Стек:* `Python`, `python-telegram-bot`, `PyBit`, `SQLite`, `Rust`.
+| Проект | Описание | Стек |
+| --- | --- | --- |
+| [FGIS Arshin](https://github.com/Alekseyzool/Alekseyzool/tree/main/01_pet_projects/FGIS_Arshin) | Цель — автоматизировать загрузку метрологических данных; собрал пайплайн импорта поверок и типов СИ из ФГИС в ClickHouse, добавил проверку дубликатов и интерфейс на Streamlit. | `Python`, `Streamlit`, `Requests`, `Pandas`, `clickhouse-driver` |
+| [E-commerce OLIST](https://github.com/Alekseyzool/E-commerce_OLIST/blob/main/E-commerce%20OLIST%20analysis.ipynb) | Цель — удержать покупателей маркетплейса; выгрузил данные, провел когортный анализ, приоритизировал гипотезы и посчитал ключевые A/B-метрики для продуктовых решений. | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `SQLAlchemy` |
+| [Trade Bot](https://github.com/Alekseyzool/Alekseyzool/tree/main/01_pet_projects/trade_bot) | Цель — автоматизировать ручную торговлю на Bybit; реализовал управление ордерами и уведомления, подключил историю сделок и ускорил котировки через Rust-расширение. | `Python`, `python-telegram-bot`, `PyBit`, `SQLite`, `Rust` |
 
 ---
 
@@ -45,65 +42,52 @@
 #### [**Karpov.Courses**](https://github.com/Alekseyzool/Alekseyzool/tree/main/02_karpov_courses)
 > Небольшая коллекция ноутбуков по аналитике и прогнозированию; подробности — в README каталога.
 
-- **[AA & AB Simulator](https://github.com/Alekseyzool/Alekseyzool/blob/main/02_karpov_courses/AA_AB_karpov_simulator.ipynb)** — проверка корректности сплитования и анализ CTR новой рекомендательной ленты.  
-  *Стек:* `Python`, `Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`, `clickhouse-connect`, `swifter`.
-
-- **[Final Project · Pricing](https://github.com/Alekseyzool/Alekseyzool/blob/main/02_karpov_courses/Final_project_Karpov.ipynb)** — анализ теста цены премиума: очистка данных, продуктовые метрики и бутстрап uplift.  
-  *Стек:* `Python`, `Pandas`, `NumPy`, `SciPy`, `Statsmodels`, `Matplotlib`, `Seaborn`.
-
-- **[Predicting Server Loads](https://github.com/Alekseyzool/Alekseyzool/blob/main/02_karpov_courses/Predicting_server_loads.ipynb)** — прогнозирование активности пользователей с Orbit и CatBoost.  
-  *Стек:* `Python`, `Pandas`, `NumPy`, `Orbit`, `CatBoost`, `clickhouse-connect`.
+| Проект | Описание | Стек |
+| --- | --- | --- |
+| [AA & AB Simulator](https://github.com/Alekseyzool/Alekseyzool/blob/main/02_karpov_courses/AA_AB_karpov_simulator.ipynb) | Цель — проверить корректность сплитования и статистических тестов; построил симулятор AA/AB, исследовал влияние разбалансировки на CTR и визуализировал результаты для команды. | `Python`, `Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`, `clickhouse-connect`, `swifter` |
+| [Final Project · Pricing](https://github.com/Alekseyzool/Alekseyzool/blob/main/02_karpov_courses/Final_project_Karpov.ipynb) | Цель — оценить влияние новой цены на премиум; очистил данные, посчитал продуктовые метрики, построил бутстрап uplift и подготовил рекомендации. | `Python`, `Pandas`, `NumPy`, `SciPy`, `Statsmodels`, `Matplotlib`, `Seaborn` |
+| [Predicting Server Loads](https://github.com/Alekseyzool/Alekseyzool/blob/main/02_karpov_courses/Predicting_server_loads.ipynb) | Цель — прогнозировать нагрузку на сервис; подготовил временные признаки, обучил Orbit и CatBoost, сравнил метрики и описал сценарии мониторинга. | `Python`, `Pandas`, `NumPy`, `Orbit`, `CatBoost`, `clickhouse-connect` |
 
 #### [**Yandex Practicum**](https://github.com/Alekseyzool/Alekseyzool/tree/main/03_yandex_practicum)
 > Серия учебных аналитических проектов с бизнес-контекстом.
 
-- **[Music Service](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/01_music_service/music_service.ipynb)** — сравнение поведения слушателей Москвы и Петербурга.  
-  *Стек:* `Python`, `Pandas`.
+**Основные проекты**
 
-- **[Bank Borrowers](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/02_bank_borrowers/bank_borrowers.ipynb)** — влияние семейного положения, детей и целей кредита на просрочки.  
-  *Стек:* `Python`, `Pandas`.
+| Проект | Описание | Стек |
+| --- | --- | --- |
+| [Telecom Tariff](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/04_tariff_telecom/tariff_telecom.ipynb) | Цель — сравнить тарифы «Смарт» и «Ультра»; подготовил очищенную выборку, исследовал выручку по сегментам и проверил статистические гипотезы для рекомендаций. | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `SciPy` |
+| [Bank Customer Churn](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/07_churn_customer_bank/churn_customer_bank.ipynb) | Цель — снизить отток клиентов; проанализировал факторы риска, сбалансировал классы и обучил модели классификации для прогнозов. | `Python`, `Pandas`, `NumPy`, `scikit-learn` |
+| [Taxi Order Forecasting](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/12_taxi_order_forecasting/taxi_order_forecasting.ipynb) | Цель — прогнозировать часовые заказы такси; создал лаговые признаки, протестировал бустинг и ARIMA, выбрал модель с наименьшим MAPE для планирования автопарка. | `Python`, `Pandas`, `NumPy`, `scikit-learn`, `CatBoost`, `Statsmodels` |
+| [Oil Production Regions](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/08_region_oil_production/region_oil_production.ipynb) | Цель — выбрать прибыльный регион добычи; построил модель качества скважин, провел bootstrap для оценки риска и предложил инвестиционную стратегию. | `Python`, `Pandas`, `NumPy`, `scikit-learn` |
+| [Toxic Comments](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/13_toxic_comments/toxic_comments.ipynb) | Цель — автоматизировать модерацию комментариев; собрал корпус, подготовил TF-IDF-признаки и обучил логистическую регрессию для выявления токсичности. | `Python`, `Pandas`, `NumPy`, `scikit-learn`, `NLTK` |
 
-- **[Real Estate Market](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/03_real_estate_market/real_estate_market.ipynb)** — факторы ценообразования недвижимости Санкт-Петербурга и центровой надбавки.  
-  *Стек:* `Python`, `Pandas`, `Matplotlib`.
+<details>
+<summary>Дополнительные проекты Яндекс Практикума</summary>
 
-- **[Telecom Tariff](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/04_tariff_telecom/tariff_telecom.ipynb)** — сравнение выручки тарифов «Смарт» и «Ультра», анализ региональных различий.  
-  *Стек:* `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `SciPy`.
+<br>
 
-- **[Age Determination](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/05_age_determination/age_determination.ipynb)** — определение возраста по фотографиям с помощью ResNet50.  
-  *Стек:* `Python`, `TensorFlow`, `Pandas`, `NumPy`, `Matplotlib`.
+| Проект | Описание | Стек |
+| --- | --- | --- |
+| [Music Service](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/01_music_service/music_service.ipynb) | Цель — сравнить музыкальные предпочтения городов; очистил логи и проверил гипотезы по плейлистам Москвы и Петербурга. | `Python`, `Pandas` |
+| [Bank Borrowers](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/02_bank_borrowers/bank_borrowers.ipynb) | Цель — оценить влияние семейного статуса и детей на просрочки; подготовил данные и построил анализ факторов риска. | `Python`, `Pandas` |
+| [Real Estate Market](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/03_real_estate_market/real_estate_market.ipynb) | Цель — изучить факторы стоимости жилья; исследовал объявления, выявил ключевые параметры и центровую надбавку. | `Python`, `Pandas`, `Matplotlib` |
+| [Age Determination](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/05_age_determination/age_determination.ipynb) | Цель — автоматизировать проверку возраста покупателей; обучил ResNet50, оценил точность и подготовил pipeline. | `Python`, `TensorFlow`, `Pandas`, `NumPy`, `Matplotlib` |
+| [Telecom Clients](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/06_telecom_clients/telecom_clients.ipynb) | Цель — рекомендовать тарифы абонентам; сгенерировал признаки потребления и обучил классификаторы для подбора предложения. | `Python`, `Pandas`, `scikit-learn` |
+| [Gold Refining](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/09_gold_refining/gold_refining.ipynb) | Цель — повысить качество обогащения золота; построил модели этапов технологической цепочки и оценил метрики восстановления. | `Python`, `Pandas`, `NumPy`, `scikit-learn` |
+| [Game Success](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/10_game_success/game_success.ipynb) | Цель — прогнозировать успешность игр; исследовал рынки по платформам и жанрам, проверил гипотезы по рейтингам. | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `SciPy` |
+| [Car Cost](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/11_car_cost/car_cost.ipynb) | Цель — автоматизировать оценку стоимости авто; сравнил LightGBM и CatBoost, подобрал оптимальные гиперпараметры. | `Python`, `Pandas`, `NumPy`, `scikit-learn`, `LightGBM`, `CatBoost` |
 
-- **[Telecom Clients](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/06_telecom_clients/telecom_clients.ipynb)** — классификация тарифов для абонентов мобильного оператора.  
-  *Стек:* `Python`, `Pandas`, `scikit-learn`.
-
-- **[Bank Customer Churn](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/07_churn_customer_bank/churn_customer_bank.ipynb)** — прогноз оттока с балансировкой классов и сравнением моделей.  
-  *Стек:* `Python`, `Pandas`, `NumPy`, `scikit-learn`.
-
-- **[Oil Production Regions](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/08_region_oil_production/region_oil_production.ipynb)** — выбор прибыльного региона на основе модели и bootstrap-оценки рисков.  
-  *Стек:* `Python`, `Pandas`, `NumPy`, `scikit-learn`.
-
-- **[Gold Refining](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/09_gold_refining/gold_refining.ipynb)** — прогноз восстановления золота и оптимизация технологической цепочки.  
-  *Стек:* `Python`, `Pandas`, `NumPy`, `scikit-learn`.
-
-- **[Game Success](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/10_game_success/game_success.ipynb)** — анализ рынка игр, популярности жанров и проверка гипотез по рейтингам.  
-  *Стек:* `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `SciPy`.
-
-- **[Car Cost](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/11_car_cost/car_cost.ipynb)** — оценка стоимости автомобилей моделями LightGBM и CatBoost.  
-  *Стек:* `Python`, `Pandas`, `NumPy`, `scikit-learn`, `LightGBM`, `CatBoost`.
-
-- **[Taxi Order Forecasting](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/12_taxi_order_forecasting/taxi_order_forecasting.ipynb)** — прогноз часовых заказов такси с лагами и градиентным бустингом.  
-  *Стек:* `Python`, `Pandas`, `NumPy`, `scikit-learn`, `CatBoost`, `Statsmodels`.
-
-- **[Toxic Comments](https://github.com/Alekseyzool/ya_practicum_ds/blob/main/13_toxic_comments/toxic_comments.ipynb)** — определение токсичности комментариев по TF-IDF и логистической регрессии.  
-  *Стек:* `Python`, `Pandas`, `NumPy`, `scikit-learn`, `NLTK`.
+</details>
 
 #### [**Kaggle Experiments**](https://github.com/Alekseyzool/Alekseyzool/tree/main/04_kaggle)
 > Каталог соревновательных ноутбуков и черновиков для Kaggle.
 
-- **[README по экспериментам](https://github.com/Alekseyzool/Alekseyzool/blob/main/04_kaggle/README.md)** — правила ведения соревнований и список используемого стека.  
-  *Стек:* `Python`, `scikit-learn`, `CatBoost`, `LightGBM`, `Optuna`.
-- **[Spaceship Titanic](https://github.com/Alekseyzool/kaggle/blob/main/spaceship_titanic/Spaceship_Titanic_master.ipynb)** — модель CatBoost с инженерией семейных признаков и тюнингом (AUC до 0.893) для поиска «перемещённых» пассажиров.
 
----
+| Проект | Описание | Стек |
+| --- | --- | --- |
+| [Spaceship Titanic](https://github.com/Alekseyzool/kaggle/blob/main/spaceship_titanic/Spaceship_Titanic_master.ipynb) | Цель — улучшить результат соревнования; спроектировал семейные признаки, настроил CatBoost и добился AUC 0.893. | `Python`, `scikit-learn`, `CatBoost`, `LightGBM`, `Optuna` |
+| [README по экспериментам](https://github.com/Alekseyzool/Alekseyzool/blob/main/04_kaggle/README.md) | Цель — стандартизировать работу над Kaggle; описал структуру репозитория, правила экспериментов и используемый стек для повторяемости. | `Markdown`, `scikit-learn`, `CatBoost`, `LightGBM`, `Optuna` |
+--- 
 
 
 
