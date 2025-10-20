@@ -101,6 +101,7 @@
 
 - **[README по экспериментам](https://github.com/Alekseyzool/Alekseyzool/blob/main/04_kaggle/README.md)** — правила ведения соревнований и список используемого стека.  
   *Стек:* `Python`, `scikit-learn`, `CatBoost`, `LightGBM`, `Optuna`.
+- **[Spaceship Titanic](https://github.com/Alekseyzool/kaggle/blob/main/spaceship_titanic/Spaceship_Titanic_master.ipynb)** — модель CatBoost с инженерией семейных признаков и тюнингом (AUC до 0.893) для поиска «перемещённых» пассажиров.
 
 ---
 
@@ -109,8 +110,8 @@
 ## 💬 Контакты
 
 📧 **Email:** [zoolrmx@gmail.com](mailto:zoolrmx@gmail.com)  
-💬 **Telegram:** [@Alekseyzool](https://t.me/Yazev_Aleksey)  
-
+💬 **Telegram:** [@Yazev_Aleksey](https://t.me/Yazev_Aleksey)  
+💬 **Kaggle:** [@yazevaleksey](https://www.kaggle.com/yazevaleksey)  
 ---
 
 ⭐️ *GitHub — моё рабочее портфолио. Здесь я систематизирую обучение, pet-проекты и эксперименты с AI-агентами. Если вы ищете аналитика, который умеет не только считать, но и строить инфраструктуру вокруг данных — вы по адресу.*
