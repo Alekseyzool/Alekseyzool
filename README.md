@@ -85,13 +85,13 @@
 
 | Проект | Описание | Стек |
 | --- | --- | --- |
-| [Spaceship Titanic](https://github.com/Alekseyzool/kaggle/blob/main/spaceship_titanic/Spaceship_Titanic_master.ipynb) | Цель — улучшить результат соревнования; спроектировал семейные признаки, настроил CatBoost и добился AUC 0.893. | `Python`, `scikit-learn`, `CatBoost`, `LightGBM`, `Optuna` |
-| [README по экспериментам](https://github.com/Alekseyzool/Alekseyzool/blob/main/04_kaggle/README.md) | Цель — стандартизировать работу над Kaggle; описал структуру репозитория, правила экспериментов и используемый стек для повторяемости. | `Markdown`, `scikit-learn`, `CatBoost`, `LightGBM`, `Optuna` |
+| [Spaceship Titanic](https://github.com/Alekseyzool/kaggle/blob/main/spaceship_titanic/Spaceship_Titanic_master.ipynb) | Цель — предсказать, какие пассажиры будут перенесены в альтернативное измерение; провёл фич-инжиниринг, настроил CatBoost; топ 20 в соревновании. | `Python`, `scikit-learn`, `CatBoost`, `LightGBM`, `Optuna` |
+
 --- 
 
 
 
-## 💬 Контакты
+### 💬 Контакты
 
 📧 **Email:** [zoolrmx@gmail.com](mailto:zoolrmx@gmail.com)  
 💬 **Telegram:** [@Yazev_Aleksey](https://t.me/Yazev_Aleksey)  
