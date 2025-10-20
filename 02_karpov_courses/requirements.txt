@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+clickhouse-connect
+swifter
+statsmodels
+catboost
+orbit-ml
