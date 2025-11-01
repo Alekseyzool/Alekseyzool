@@ -12,6 +12,9 @@ venv/
 Pipfile.lock
 poetry.lock
 
+# VS Code
+.vscode/
+
 # SQLite / DB
 *.db
 *.sqlite3
