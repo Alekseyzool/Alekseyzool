@@ -16,3 +16,6 @@
 	branch = main
 [submodule "01_pet_projects/trade_bot/rusty_trading"]
 	ignore = all
+[submodule "01_pet_projects/FGIS_Arshin"]
+	path = 01_pet_projects/FGIS_Arshin
+	url = git@github.com:Alekseyzool/arshin.git
