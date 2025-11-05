@@ -31,7 +31,7 @@
 
 | Проект | Описание | Стек |
 | --- | --- | --- |
-| [FGIS Arshin](01_pet_projects/FGIS_Arshin/README.md) | Цель — автоматизировать загрузку метрологических данных; собрал пайплайн импорта поверок и типов СИ из ФГИС в ClickHouse, добавил проверку дубликатов и интерфейс на Streamlit. | `Python`, `Streamlit`, `Requests`, `Pandas`, `clickhouse-driver` |
+| [FGIS Arshin](https://github.com/Alekseyzool/arshin) | Цель — автоматизировать загрузку метрологических данных; собрал пайплайн импорта поверок и типов СИ из ФГИС в ClickHouse, добавил проверку дубликатов и интерфейс на Streamlit. | `Python`, `Streamlit`, `Requests`, `Pandas`, `clickhouse-driver` |
 | [E-commerce OLIST](01_pet_projects/E-commerce_OLIST/E-commerce%20OLIST%20analysis.ipynb) | Цель — удержать покупателей маркетплейса; выгрузил данные, провел когортный анализ, приоритизировал гипотезы и посчитал ключевые A/B-метрики для продуктовых решений. | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `SQLAlchemy` |
 | [Trade Bot](01_pet_projects/trade_bot/README.md) | Цель — автоматизировать ручную торговлю на Bybit; реализовал управление ордерами и уведомления, подключил историю сделок и ускорил котировки через Rust-расширение. | `Python`, `python-telegram-bot`, `PyBit`, `SQLite`, `Rust` |
 
